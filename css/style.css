@@ -37,6 +37,7 @@
 }
 .table{
     text-align: center;
+    margin: 50px auto;
 }
 .containers{
     max-width: 200px;
